@@ -3,6 +3,7 @@
 
 
 **Activity 2**
+
 <img width="674" alt="Activity2" src="https://user-images.githubusercontent.com/45493463/194131224-b1264076-f200-4de0-99d7-94840a029e83.png">
 
 **Activity 3**
